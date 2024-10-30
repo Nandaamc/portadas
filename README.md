@@ -1,1 +1,12 @@
-# portadas
+![aguila](https://github.com/user-attachments/assets/3004b640-d977-4a7d-93f7-b55eba25b5d1)
+![aguilucho](https://github.com/user-attachments/assets/34eb3eae-c922-40a6-997b-faf4f6fc7297)
+![carancho](https://github.com/user-attachments/assets/f2efecff-c5f8-47a6-b8de-715fb475df65)
+![cauquen](https://github.com/user-attachments/assets/eceec048-a026-4ff1-acbc-3674a5d71169)
+![cernicalo](https://github.com/user-attachments/assets/8e41cab4-8062-43d5-b129-c21e28387b2e)
+![choroy](https://github.com/user-attachments/assets/a0ae0c2f-58d3-4368-844c-0b7b8e6a0525)
+![chucao](https://github.com/user-attachments/assets/379d0cdb-1f0c-4b71-83d0-1b7dc336a3d1)
+![lechuza](https://github.com/user-attachments/assets/fcf16620-99c1-40c2-b873-270ff2487261)
+![lile](https://github.com/user-attachments/assets/788c9b26-f9b6-4170-a86b-d557726c8dff)
+![loica](https://github.com/user-attachments/assets/251bc916-b724-43dc-b478-bb8c7e5f91b1)
+![martin](https://github.com/user-attachments/assets/9abbbcf8-9117-49a9-a7dd-1e30bd07726b)
+![picaflor](https://github.com/user-attachments/assets/ce074164-765d-49b8-bb8e-b515a80285de)
